@@ -12,8 +12,9 @@ img[alt="logo"]{
     
 }
 /*background images*/
-BODY{
+body{
     background-image: url(https://i.postimg.cc/rwYZtcJT/e8a1b035e0d456aae3537591943912ec.jpg);
+    
 }
 nav{
     background-image: url(https://i.postimg.cc/rwYZtcJT/e8a1b035e0d456aae3537591943912ec.jpg);
@@ -218,6 +219,11 @@ body{
 }
 }
 
-#EDUCATION{
+#education{
     padding-top: 150px;
+}
+.btn{
+  
+    border: #000000;
+    background-color: #637280;   
 }
