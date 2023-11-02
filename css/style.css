@@ -16,7 +16,7 @@ body{
     background-image: url(https://i.postimg.cc/rwYZtcJT/e8a1b035e0d456aae3537591943912ec.jpg);
     
 }
-nav{
+nav ,footer{
     background-image: url(https://i.postimg.cc/rwYZtcJT/e8a1b035e0d456aae3537591943912ec.jpg);
 }
 /**timeline**/
@@ -227,4 +227,3 @@ body{
     border: #000000;
     background-color: #637280;   
 }
-
