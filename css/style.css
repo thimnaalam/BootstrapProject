@@ -259,7 +259,7 @@ body{
     display: block;
     justify-content: center;
     align-content: center;
-    width:1000px;
+    width:800px;
     column-gap: 4cm;
     row-gap: 4cm;
 }
@@ -307,4 +307,5 @@ body {
     color: white;
     transform: rotateY(180deg);
   }
+  
   
